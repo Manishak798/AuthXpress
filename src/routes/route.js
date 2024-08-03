@@ -2,8 +2,6 @@ import { Router } from "express";
 
 export const router = Router();
 
-//import all controllers
-
 import * as controller from '../Controllers/appController.js'
 
 
